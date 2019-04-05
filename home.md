@@ -7,5 +7,6 @@ I enjoy Arduino and Raspberry Pi in large part. I still find time for other inte
 
 * [Python](https://github.com/will2055/Simple-Portfolio/blob/master/python/python_projects.md)
 * [C/C++](https://github.com/will2055/Simple-Portfolio/blob/master/C%2B%2B/cpp_projects.md)
+* [Hardware](https://github.com/will2055/Simple-Portfolio/blob/master/Board%20Designs/hardware.md)
 
 I have so much more I want to do! Stay tuned for more projects!
