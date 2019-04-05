@@ -6,3 +6,5 @@ Feel free to let me know what I could do bettter, thanks!
 
 * [GPS Module with the Raspberry Pi](https://github.com/will2055/Simple-Portfolio/blob/master/C++/rxm_gps.cpp)
 * [C02 Gas Sensor with the Raspberry Pi](https://github.com/will2055/Simple-Portfolio/blob/master/C++/89TE_i2c.cpp)
+
+* [Arduino Specific Projects](https://github.com/will2055/Simple-Portfolio/blob/master/C%2B%2B/Arduino/arduino.md)
