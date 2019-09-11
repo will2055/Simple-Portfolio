@@ -28,9 +28,6 @@ int main(){
 		int incoming_size = serialDataAvail(device);
 		sleep(1);
 		cout<<"There is ["<<incoming_size<<"] characters for reading"<<endl;
-		//if(serialGetchar(device) == "$GPGLL")
-		//serialPuts(device, "$PSRF103,00,01,01,00*00");
-		//cout<<try_trans<<endl;
 		incoming_size = serialDataAvail(device);
 		cout<<"There is ["<<incoming_size<<"] characters for reading"<<endl;
 		for(int i=0;i<=100;i++){
